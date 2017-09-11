@@ -1,0 +1,6 @@
+getwd()
+dir()
+ls
+cd Desktop
+getwd()
+getwd()
